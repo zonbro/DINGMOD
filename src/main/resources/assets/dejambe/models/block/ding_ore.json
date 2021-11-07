@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dejambe:blocks/infinity_ore",
+    "up": "dejambe:blocks/infinity_ore",
+    "north": "dejambe:blocks/infinity_ore",
+    "east": "dejambe:blocks/infinity_ore",
+    "south": "dejambe:blocks/infinity_ore",
+    "west": "dejambe:blocks/infinity_ore",
+    "particle": "dejambe:blocks/infinity_ore"
+  }
+}

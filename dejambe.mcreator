@@ -1,0 +1,143 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "DingOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ding_ore"
+    },
+    {
+      "name": "Dingot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dingot"
+    },
+    {
+      "name": "DingSword",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ding_sword"
+    },
+    {
+      "name": "DingSword1",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ding_sword_1"
+    },
+    {
+      "name": "SaltOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt_ore"
+    },
+    {
+      "name": "Salt",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt"
+    },
+    {
+      "name": "SaltBlockRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt_block_recipe"
+    },
+    {
+      "name": "SaltBlock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt_block"
+    },
+    {
+      "name": "MarcusDimension",
+      "type": "dimension",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marcus_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "SaltlandKeyRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saltland_key_recipe"
+    },
+    {
+      "name": "SaltBiome",
+      "type": "biome",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt_biome"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.dejambe.salt_block": "Salt Block",
+      "item.dejambe.ding_sword": "Ding Sword",
+      "block.dejambe.salt_ore": "Salt Ore",
+      "item.dejambe.dingot": "Dingot",
+      "item.dejambe.marcus_dimension": "Saltland Key",
+      "item.dejambe.salt": "Salt",
+      "block.dejambe.ding_ore": "Ding Ore",
+      "biome.dejambe.salt_biome": "Salt Biome"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "dejambe",
+    "modName": "Dejambe",
+    "version": "1.0.0",
+    "author": "zonbr, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.dejambe",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

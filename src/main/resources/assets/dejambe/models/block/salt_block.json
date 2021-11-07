@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dejambe:blocks/salt",
+    "up": "dejambe:blocks/salt",
+    "north": "dejambe:blocks/salt",
+    "east": "dejambe:blocks/salt",
+    "south": "dejambe:blocks/salt",
+    "west": "dejambe:blocks/salt",
+    "particle": "dejambe:blocks/salt"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "dejambe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "dejambe:dingot"
+    },
+    "1": {
+      "item": "dejambe:dingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dejambe:ding_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "dejambe:block/marcus_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "dejambe:block/marcus_dimension_portal_ns"
+    }
+  }
+}
